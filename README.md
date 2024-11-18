@@ -164,7 +164,9 @@ plt.show()
 
 ### ii) Image Scaling
 
-![image](https://github.com/user-attachments/assets/50973cd9-08ab-435c-a14b-17bc807cc41c)
+![image](https://github.com/user-attachments/assets/5e68348f-66ad-4875-93bc-2fd66fabd9e8)
+
+![Uploading WhatsApp Image 2024-11-18 at 21.14.41_b2fc0067.jpg…]()
 
 ### iii)Image shearing
 
