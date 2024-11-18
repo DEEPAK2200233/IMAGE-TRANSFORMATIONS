@@ -166,7 +166,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/5e68348f-66ad-4875-93bc-2fd66fabd9e8)
 
-![Uploading WhatsApp Image 2024-11-18 at 21.14.41_b2fc0067.jpg…]()
+![WhatsApp Image 2024-11-18 at 21 14 41_b2fc0067](https://github.com/user-attachments/assets/9b1a0e57-dd29-48cd-b999-6660687b9033)
 
 ### iii)Image shearing
 
